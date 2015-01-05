@@ -1,0 +1,21 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: whonix-welcome-page
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime
+Homepage: https://github.com/Whonix/whonix-welcome-page
+Vcs-Browser: https://github.com/Whonix/whonix-welcome-page
+Vcs-Git: https://github.com/Whonix/whonix-welcome-page.git
+Standards-Version: 3.9.4
+
+Package: whonix-welcome-page
+Architecture: all
+Depends: ${misc:Depends}
+Description: Local Browser Homepage for Whonix
+ Whonix specific browser homepage used in Tor Browser.
+ .
+ Contains Whonix logo and Whonix links.
