@@ -6,5 +6,5 @@
 
 ## environment variable to set TorBrowser homepage
 ## https://trac.torproject.org/projects/tor/ticket/13835
-TOR_HOMEPAGE="/usr/share/homepage/whonix-welcome-page/whonix.html"
-export TOR_HOMEPAGE
+TOR_DEFAULT_HOMEPAGE="/usr/share/homepage/whonix-welcome-page/whonix.html"
+export TOR_DEFAULT_HOMEPAGE
