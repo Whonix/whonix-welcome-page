@@ -19,3 +19,5 @@ Description: Local Browser Homepage for Whonix
  Whonix specific browser homepage used in Tor Browser.
  .
  Contains Whonix logo and Whonix links.
+ .
+ Safe to remove, if you know what you are doing.
