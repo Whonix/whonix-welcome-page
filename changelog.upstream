@@ -1,0 +1,174 @@
+commit c9cc7bd702a1e92503dce3ae658a34fc14889b52
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Feb 4 00:41:03 2015 +0000
+
+    updated makefile generic to version 1.3
+
+commit 88ac4b602543c30537cdcd8f48d4adc460f8c5dc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Feb 3 23:59:03 2015 +0000
+
+    Added creation of upstream changelog to debian/rules
+
+commit fdc2f9bfa8a91bfdb2fd7071fc7c674c57bfacf5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Feb 3 00:31:04 2015 +0000
+
+    extended package description to fix lintian warning
+
+commit dfd7d77ce0dc54a36238b4f0027f40ad28b9ea8a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:46:13 2015 +0000
+
+    updated readme
+
+commit 2073ee96fc84c976491961fbcb1e92732d91b094
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:35:06 2015 +0000
+
+    bumped compat from 8 to 9
+
+commit 2425778300f1d3bc0a5de5e39dc0950b9c3f0752
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Jan 6 15:53:23 2015 +0000
+
+    set from TOR_HOMEPAGE to TOR_DEFAULT_HOMEPAGE as per https://trac.torproject.org/projects/tor/ticket/13835#comment:8
+
+commit 50ba03c3b732972a25532abc46bab97312a90cd8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 5 15:42:40 2015 +0000
+
+    set, export environment variable TOR_HOMEPAGE to set TorBrowser homepage to
+    /usr/share/homepage/whonix-welcome-page/whonix.html
+    https://trac.torproject.org/projects/tor/ticket/13835
+
+commit 9a49d4b720ea6753082bca83af7d625a42b6ba4a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 5 15:02:49 2015 +0000
+
+    initial packaging
+
+commit 0ca10e14a2aa16d746b0795483fffc0a27999419
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Sat Jan 3 14:32:15 2015 +0000
+
+    Added "target" and "rel" HTML tags to links in Disclaimer text...
+    
+    Makes uniform with other external web links on page.
+    
+    - target="_blank" (helps open link in new tab).
+    - rel="noreferrer" (can help blank HTTP REFERER field).
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+
+commit a27bf1200465c5fb000182d75d3e7bd5a2312175
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 19:59:40 2015 +0000
+
+    Called JavaScript file with "script" tag in HTML head...
+    
+    - Referenced relative path of "javascript.js"
+    - Used proper media type of "application/javascript"
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+
+commit 854a7e0322b5946fb3853188f8df840fb7b345fa
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 19:50:55 2015 +0000
+
+    Added javascript.js
+    
+    ./usr/share/homepage/whonix-welcome-page/javascript.js
+
+commit 50d95a30d860397476d4837cf7ebb8cd3053f2f3
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 19:13:18 2015 +0000
+
+    Adjusted spacing and size of resource links in stylesheet...
+    
+    - Decreased padding of list items to allow for font size increase.
+    - Increased font size of link anchors for better visibility.
+    
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit a9de49ee9a53c5218bd485b954ead4d7ceef777a
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 12:19:11 2015 +0000
+
+    Added "tabindex" attributes to HTML elements for logical ordered tab sequencing.
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+
+commit 479ebb27af1394db06c1fff130cdcfad59d71a27
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 12:12:08 2015 +0000
+
+    Fixed centering of list items of resource links in stylesheet.
+    
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit baab171d5d2ff2e1dd00bb890fc84e4107ddbf4d
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 12:03:08 2015 +0000
+
+    Added explicit UTF-8 charset declaration to the stylesheet...
+    
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit 581e872b8903909873929c947cb8ef74a849f8e5
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 11:55:33 2015 +0000
+
+    Changed title tag text to "Whonix Welcome Page" from "Welcome to Whonix"...
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+    
+    Provides better enduring page usage context and user association to the formal name of the page.
+
+commit c249d2cbf7d0010a4a65ecfc4213eca71f347673
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 11:50:58 2015 +0000
+
+    Changed indent style to tabs from spaces for better code workability...
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit 288230979511c52b85d8939d73eb2b9e8134d47d
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 11:31:42 2015 +0000
+
+    Inserted latest HTML (whonix.html) and CSS (stylesheet.css) from Whonix Development Forum...
+    
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+    
+    Whonix Development Forum thread message: https://www.whonix.org/forum/index.php/topic,365.msg5816.html#msg5816
+
+commit fde46ae509613edbd6e61f2e23ed86783e6496bc
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 10:02:57 2015 +0000
+
+    Added logo.png...
+    
+    ./usr/share/homepage/whonix-welcome-page/logo.png
+    
+    Source of file: https://www.whonix.org/w/images/e/e0/210-Banner.png
+    
+    SHA512 Hash: ec3b40a272070b9c71bcc91461d662f31f7370d5877cff69c52888169d89f1cc8d00a77a90b8d22280ce07eb587acf43f905672c079aae7e7a5e491dfc9c42cc
+
+commit 82242c8b33405bd4441bd80a566cb3fd7fe5f402
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Fri Jan 2 09:56:48 2015 +0000
+
+    Added ./usr/share/homepage/whonix-welcome-page & whonix.html & stylesheet.css...
+    
+    ./usr/share/homepage/whonix-welcome-page
+    ./usr/share/homepage/whonix-welcome-page/whonix.html
+    ./usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit c6459a836e7dadf237514420fe908207139daa09
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Thu Jan 1 21:14:38 2015 +0000
+
+    Initial commit
