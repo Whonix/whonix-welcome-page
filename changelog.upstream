@@ -1,3 +1,40 @@
+commit f826386584c9961587312533212b9f16d406af60
+Merge: f27b101 bb9dc19
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 9 16:57:31 2015 +0000
+
+    Merge remote-tracking branch 'WhonixQubes/master'
+
+commit bb9dc196e17bc6af9b2b2ccf17085681205f3495
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Thu Apr 9 02:50:41 2015 +0000
+
+    Added licensing comments...
+    
+    This file is part of Whonix.
+    Copyright (C) 2015 WhonixQubes
+    See the file COPYING for copying conditions.
+    
+    - usr/share/homepage/whonix-welcome-page/whonix.html
+    - usr/share/homepage/whonix-welcome-page/stylesheet.css
+
+commit a3f5586d768ef3731c76c6f366935b1ed399bcd5
+Author: WhonixQubes <whonixqubes@riseup.net>
+Date:   Thu Apr 9 02:26:58 2015 +0000
+
+    Removed JavaScript...
+    
+    JavaScript is not used in this initial static webpage version.
+    
+    - Removed file: usr/share/homepage/whonix-welcome-page/javascript.js
+    - Removed reference from: usr/share/homepage/whonix-welcome-page/whonix.html
+
+commit f27b101f1e0286fd0c6b05efaccd0a9d8d7e7496
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 17:43:18 2015 +0000
+
+    bumped changelog version
+
 commit f3163deef96fd13ece10c99be4c64b5990dde536
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 2 18:41:44 2015 +0000
