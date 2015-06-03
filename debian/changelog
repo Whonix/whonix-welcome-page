@@ -1,3 +1,9 @@
+whonix-welcome-page (3:0.8-1) unstable; urgency=low
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 03 Jun 2015 15:00:46 +0000
+
 whonix-welcome-page (3:0.7-1) unstable; urgency=low
 
   * New upstream version (local package).
