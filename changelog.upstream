@@ -1,8 +1,56 @@
+commit 3b06bf2e213164ca2280aacb94663d6d10198dd2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 21 14:45:50 2018 +0000
+
+    move to v3 onion
+
+commit cc97b2adafbb1b55e1439e43180027d8e8b5eb7e
+Merge: dbda7ed 297a2f7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 21 14:45:01 2018 +0000
+
+    Merge remote-tracking branch 'irykoon/master'
+
+commit dbda7edc1640d0dfcf4677df70ba1e57c86f4411
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 21 13:45:21 2018 +0000
+
+    bumped changelog version
+
 commit 1c9c0b8e4cc96dd6c6696484942d2e34cf1c9124
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Jan 21 13:42:45 2018 +0000
 
     move to v3 onion
+
+commit 297a2f7bb232a118ebe5568898481e8216e340eb
+Author: irykoon <irykoon@gmail.com>
+Date:   Mon Jan 8 04:13:16 2018 +0000
+
+    Remove the redundant whonix_new.html
+
+commit ebb91414ac395f0049c1f7039ca5029d5ca28a67
+Author: irykoon <irykoon@gmail.com>
+Date:   Wed Jan 3 21:50:30 2018 +0000
+
+    Beautify Whonix Welcome page in Tor Browser
+    
+    The 7.0.9 release broke the Whonix welcome page in Tor Browser (https://forums.whonix.org/t/the-7-0-9-release-broke-the-whonix-landing-page-in-tor-browser/4489). Although the prvious welcome page still works, it is better to beautify it. This fix include replacing Whonix logo png with Ascii Art, removal of invlalid links and enlarging font size. Still this is a temporary workaround and please feel free to checkout to the previous one, once the breakage problem is fixed by TPO.
+
+commit e275a2d24c6388cd802b0a741ba70b5370209b6e
+Merge: 151e380 a073c29
+Author: irykoon <irykoon@gmail.com>
+Date:   Wed Jan 3 21:30:55 2018 +0000
+
+    Merge remote-tracking branch 'upstream/master'
+
+commit 151e38065a4ef1229bdff293489bd78e92d19761
+Author: irykoon <irykoon@gmail.com>
+Date:   Wed Jan 3 21:18:40 2018 +0000
+
+    Beautify Whonix Welcome page in Tor Browser
+    
+    The 7.0.9 release broke the Whonix welcome page in Tor Browser (https://forums.whonix.org/t/the-7-0-9-release-broke-the-whonix-landing-page-in-tor-browser/4489). Although the prvious welcome page still works, it is better to beautify it. This fix include replacing Whonix logo png with Ascii Art, removal of invlalid links and enlarging font size. Still this is a temporary workaround and please feel free to checkout to the previous one, once the breakage problem is fixed by TPO.
 
 commit a073c29a51ec154e7a45b3efba150f82919b059b
 Author: Patrick Schleizer <adrelanos@riseup.net>
