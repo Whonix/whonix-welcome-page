@@ -1,3 +1,52 @@
+commit 39992d6fb354a0f192e162437f661d473c2ed436
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:50:59 2018 +0000
+
+    readme
+
+commit eca5b089c5101354719d4df80f91dbe73ce63228
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:39:07 2018 +0000
+
+    update copyright
+
+commit 7998474ac89a4d6235c72261bddb3c8ddb4670ab
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:22:16 2018 +0000
+
+    update copyright
+
+commit 499842e01fbdd9a4099788c73fced351e1cce589
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:15:28 2018 +0000
+
+    update copyright
+
+commit a1f2d787c2d18a8d2e580d1723714d716569224c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jan 29 15:09:53 2018 +0000
+
+    update copyright
+
+commit 93bee5a0a7fc9fc60a10afbaa2abeedb293408bf
+Merge: cbb9785 3cebf18
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Jan 25 21:14:30 2018 +0100
+
+    Merge remote-tracking branch 'irykoon/master'
+
+commit 3cebf1831b81bd9954a8ce3d3e5688307eaef811
+Author: irykoon <irykoon@gmail.com>
+Date:   Thu Jan 25 02:37:14 2018 +0000
+
+    Beautify Whonix Ascii Logo
+
+commit cbb97852c47ff1fd08ae3ee0ae863af75f2c8dc4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 21 14:46:40 2018 +0000
+
+    bumped changelog version
+
 commit 3b06bf2e213164ca2280aacb94663d6d10198dd2
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Jan 21 14:45:50 2018 +0000
