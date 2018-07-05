@@ -1,3 +1,33 @@
+commit 0b5f1c648b46c34a0ee3089675fe87695201cefa
+Merge: f8b60a6 47320cb
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Jun 21 07:40:02 2018 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 47320cb8517c39c5acf116b40b7ca6ac2d1ab1e5
+Merge: f8b60a6 a3eea67
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Jun 21 09:38:12 2018 +0200
+
+    Merge pull request #4 from irykoon/master
+    
+    whonix.org/blog -> forum.whonix.org/c/news
+
+commit a3eea67d233925e6ef192ec1b33c6a7cf01fcdff
+Author: irykoon <irykoon@gmail.com>
+Date:   Thu Jun 21 07:00:39 2018 +0000
+
+    whonix.org/blog -> forum.whonix.org/c/news
+    
+    As discussed on: https://forums.whonix.org/t/replacing-whonix-wordpress-blog-https-www-whonix-org-blog/5351/7
+
+commit f8b60a6f5d350a58f79a71defec0b052ba38d446
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 1 15:39:43 2018 +0000
+
+    bumped changelog version
+
 commit 39992d6fb354a0f192e162437f661d473c2ed436
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Jan 29 15:50:59 2018 +0000
