@@ -1,8 +1,53 @@
+commit f0aa4fde97f86437f800012715379184ac33fcb4
+Merge: 89b32f8 f261401
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Sep 6 08:20:22 2018 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f26140165bb9ac269a0219075684333948e9da45
+Merge: 89b32f8 e3db11a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Sep 6 08:19:07 2018 +0000
+
+    Merge pull request #5 from irykoon/master
+    
+     Beautify welcome-page for Tor Browser 8.0a
+
+commit 89b32f8d8fe44b183d517a89916842c85ccab098
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Aug 27 17:08:24 2018 +0000
+
+    bumped changelog version
+
 commit 19c8178a7aaf5792984e6c871651f9f99faf50c6
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Aug 21 05:18:57 2018 +0800
 
     readme
+
+commit e3db11a1610bf72a8adaf3cadc2844dd612ce986
+Merge: dbd283c beb7920
+Author: irykoon <irykoon@gmail.com>
+Date:   Thu Jul 5 16:06:27 2018 +0000
+
+    Merge branch 'master' of https://github.com/Whonix/whonix-welcome-page
+
+commit dbd283c248ac1667cda6682b89b3321054167827
+Author: irykoon <irykoon@gmail.com>
+Date:   Thu Jul 5 16:05:19 2018 +0000
+
+    Update Copyright header
+
+commit f4a5b763777c6954e822a0bf66313512d80facce
+Author: irykoon <irykoon@gmail.com>
+Date:   Thu Jul 5 15:58:56 2018 +0000
+
+    Beautify welcome-page for Tor Browser 8.0a
+    
+    It is recommended NOT merging this commit until Tor Browser 8.0
+    becomes stable as it won't make the page in Tor Browser 7.5.x look
+    better.
 
 commit beb79201246efdde0f960545b1722a44203364b7
 Author: Patrick Schleizer <adrelanos@riseup.net>
