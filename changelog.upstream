@@ -1,3 +1,17 @@
+commit d79010a43d1f0d027f4807090850d4c92f3bcbce
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 20 14:00:20 2019 +0000
+
+    no longer set TOR_DEFAULT_HOMEPAGE variable
+    
+    https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
+
+commit fedb48b891aa2e4193a20cba6a5d040e6bea3acc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 1 12:17:10 2019 +0000
+
+    bumped changelog version
+
 commit 9bcf95283517834ca1617238f80987437499d99d
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Aug 1 11:13:50 2019 +0000
