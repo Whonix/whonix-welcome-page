@@ -7,5 +7,7 @@
 ## https://trac.torproject.org/projects/tor/ticket/13835
 
 ## https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
-TOR_DEFAULT_HOMEPAGE="/usr/share/homepage/whonix-welcome-page/whonix.html"
-export TOR_DEFAULT_HOMEPAGE
+if [ "$TOR_DEFAULT_HOMEPAGE" = "" ]; then
+   TOR_DEFAULT_HOMEPAGE="/usr/share/homepage/whonix-welcome-page/whonix.html"
+   export TOR_DEFAULT_HOMEPAGE
+fi
