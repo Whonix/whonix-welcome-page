@@ -1,3 +1,21 @@
+commit 4b5cc56e2b6301a46a6dc939abebf679ed61fef4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:49:18 2019 +0000
+
+    fix, only set TOR_DEFAULT_HOMEPAGE if not already set
+
+commit ed4bd6c1bf99f405af7777967c0f406644be0025
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Oct 23 11:48:41 2019 +0000
+
+    reactive default homepage since fixed in Tor Browser 9
+
+commit 7d4c72fe23badbe78848cc809e08c59e8d6972f2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Sep 20 14:03:19 2019 +0000
+
+    bumped changelog version
+
 commit d79010a43d1f0d027f4807090850d4c92f3bcbce
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Sep 20 14:00:20 2019 +0000
