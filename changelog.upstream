@@ -1,3 +1,19 @@
+commit 12192d89d62d749aba7ac7ced0dcbcc180c379c8
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Feb 13 06:53:31 2020 -0500
+
+    switch forums to clearnet link
+    
+    as onion is broken
+    
+    https://forums.whonix.org/t/onion-forum-broken/8870
+
+commit 6cd622b23838ac36c4b7d0ca8dffc1d84fa872d9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Jan 30 06:53:44 2020 -0500
+
+    bumped changelog version
+
 commit 8d347960c48c03205687e11b3ec7fbaddc92b4ea
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Jan 30 06:47:11 2020 -0500
