@@ -1,3 +1,27 @@
+commit 32744d1934362b8618fcbdabce97cb871e00d487
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 23 09:00:41 2020 -0400
+
+    add search engines
+
+commit 5a361459f3fb25f2aa424e1279ccdbb3735fe184
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 23 08:54:51 2020 -0400
+
+    shuffle
+
+commit b02f77d0687ee0197e6c60543c97d4a716ae66af
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 23 08:53:16 2020 -0400
+
+    refactoring
+
+commit 7086824df42a090a53b26eaf9da798919d332038
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 16 08:55:19 2020 -0400
+
+    bumped changelog version
+
 commit d890bd9db819862194dd4b2078c2faa1c22b46c0
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Apr 15 14:05:43 2020 -0400
