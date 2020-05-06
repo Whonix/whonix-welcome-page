@@ -1,3 +1,31 @@
+commit b951cf7f76251d530453a40984cf8ea38a7782a5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed May 6 08:22:17 2020 -0400
+
+    upgrade to Whonix logo 2020 version
+
+commit 04f5a0744cb0b02de431bd588a023011b0b08e40
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed May 6 08:19:20 2020 -0400
+
+    have to use file:///usr/share/homepage/whonix-welcome-page/logo.png
+
+commit 795784ccecd8395c773aa65690fd318a5d352ab3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed May 6 07:57:42 2020 -0400
+
+    back to real image logo
+    
+    Thanks to @torjunkie for bringing this up!
+    
+    https://forums.whonix.org/t/illustrations-images-wishlist-for-whonix/3352/13
+
+commit 4dca8711a9c1eb40abc419a0661706760efea65e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 23 09:01:34 2020 -0400
+
+    bumped changelog version
+
 commit 32744d1934362b8618fcbdabce97cb871e00d487
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 23 09:00:41 2020 -0400
