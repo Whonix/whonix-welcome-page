@@ -7,7 +7,7 @@ Contains Whonix logo and Whonix links.
 Safe to remove, if you know what you are doing.
 ## How to install `whonix-welcome-page` using apt-get ##
 
-1\. Download [Whonix's Signing Key]().
+1\. Download Whonix's Signing Key.
 
 ```
 wget https://www.whonix.org/patrick.asc
