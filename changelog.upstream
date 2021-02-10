@@ -1,3 +1,21 @@
+commit 290009ed4a8f7f29df21f0d5851fde71409ef1f6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Feb 10 06:07:59 2021 -0500
+
+    readme
+
+commit 52c91457ac3bc741593d02e3d2940746ed392ba3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Feb 9 07:44:48 2021 -0500
+
+    add telegram news channel
+
+commit b3f9997e654a5e1e6ff7e7fb0a5b72124b7830d3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Oct 19 11:38:43 2020 -0400
+
+    bumped changelog version
+
 commit 2144bb39b5501c0ba576f8cd6f09f97fe68853e9
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Oct 19 11:38:42 2020 -0400
