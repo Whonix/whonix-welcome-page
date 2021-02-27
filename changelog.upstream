@@ -1,3 +1,21 @@
+commit 6acfb9df72d8d45723368eefcd3852dcb99da5bc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Feb 27 02:51:28 2021 -0500
+
+    add link to https://web.archive.org/https://t.me/s/Whonix_All_News
+
+commit 8f698cf2b9ab5c0f416bc398b41438f99a77506b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Feb 27 02:48:26 2021 -0500
+
+    no need for tabindex
+
+commit 342be3e7d3aad99b3a7d40bfa381ec6a673a3167
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Feb 21 11:32:25 2021 -0500
+
+    bumped changelog version
+
 commit 47c5533a0da683c6b279839f90c0672e73da5a8f
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Feb 21 11:17:32 2021 -0500
