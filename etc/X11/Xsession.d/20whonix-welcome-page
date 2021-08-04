@@ -3,6 +3,6 @@
 ## Copyright (C) 2012 - 2021 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
 ## See the file COPYING for copying conditions.
 
-if [ -x /usr/lib/whonix-welcome-page/env_var.sh ]; then
-   . /usr/lib/whonix-welcome-page/env_var.sh
+if [ -x /usr/libexec/whonix-welcome-page/env_var.sh ]; then
+   . /usr/libexec/whonix-welcome-page/env_var.sh
 fi
