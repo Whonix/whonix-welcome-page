@@ -1,3 +1,39 @@
+commit e260ebb241936d17d5699d90e6cf568e7eeecde7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 18:50:13 2021 -0400
+
+    usr/share/homepage -> usr/share/doc/homepage
+
+commit b91e00dc5d57d133f575e41a8f2c96c7a550cddf
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 12:48:45 2021 -0400
+
+    lintian FHS
+
+commit 1270ca39c04be0f90b1e1886e54424a507685fa8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 12:48:29 2021 -0400
+
+    lintian FHS
+
+commit 260859f5275e9c35fba87e14e7a5091dbb16e066
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 05:48:30 2021 -0400
+
+    bullseye
+
+commit 028b95d214ec4891b0dfa747f714d5851d107d5d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 1 16:24:53 2021 -0400
+
+    readme
+
+commit 039d140dac559fb02b4873d14d1728177cad3646
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Mar 17 12:51:26 2021 -0400
+
+    bumped changelog version
+
 commit 0a78e5018d3212bbe3b04ba8a6333fde0ffc9439
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Mar 17 09:45:27 2021 -0400
