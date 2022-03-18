@@ -1,3 +1,15 @@
+commit 2785b2c01eb307d2652391297a6b6fc42730e47b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Mar 18 09:27:00 2022 -0400
+
+    remove hardcoded font, use font from Debian package sources instead
+
+commit 3fddba9a989e97a02080f3493312f5cecc8f996c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Mar 18 08:56:51 2022 -0400
+
+    bumped changelog version
+
 commit a709e46407a5ffac5977a749b412b256aabc38a4
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Mar 18 08:51:38 2022 -0400
