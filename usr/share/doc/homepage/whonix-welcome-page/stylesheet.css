@@ -5,107 +5,156 @@
 ## See the file COPYING for copying conditions.
 */
 
+/* 1. General */
+
+@font-face {
+	font-family: 'Roboto';
+	src: url('Roboto-Regular-webfont.woff');
+}
+
+/* 2. Elements */
+
 body {
-	margin: 50px 0px 0px 0px;
-	background-image: -moz-linear-gradient(top, #ffffff, #ffffff 20%, #d5ffd5 100%, #d5ffd5);
-	background-repeat: no-repeat;
-	background-color: #d5ffd5;
-	font-family: "Liberation Serif", "Times New Roman", Times, serif;
-}
-
-#logo {
-	text-align: center;
-}
-
-#logo a {
-	cursor: default;
-}
-
-#logo img {
-	width: 400px;
-	height: 147px;
-}
-
-#resources {
-	width: 750px;
-	margin: 70px auto 0px auto;
-}
-
-#resources > ul {
-	margin: 0px;
-	padding: 0px;
-	list-style: none;
-	text-align: center;
-}
-
-#resources > ul > li {
-	display: inline-block;
-	position: relative;
-	margin: 0px auto;
-	padding: 0px 15px;
-}
-
-#resources > ul > li:first-child {
-	padding-left: 0px;
-}
-
-#resources > ul > li:last-child {
-	padding-right: 0px;
-}
-
-#resources > ul > li > a {
-	font-size: 12px;
-	font-weight: bold;
-	text-align: center;
-	text-transform: uppercase;
-	text-decoration: none;
-	color: #777;
-}
-
-#resources > ul > li > a:hover {
+	background: #f6f3f4;
+	font-family: "Roboto", "Helvetica", "Verdana", "Tahoma", "Liberation Sans", sans-serif;
 	color: #333;
+	padding: 40px 10px 0;
 }
 
-#resources > ul > li > div {
-	display: none;
-	position: absolute;
-	color: #333;
+/* 3. Named elements */
+
+.page-wrapper {
+  max-width: 960px;
+  margin: auto;
 }
 
-#resources > ul > li:hover > div, #resources > ul > li:target > div {
+.logo {
+	text-align: center;
+	width: 100%;
+	max-width: 600px;
+	margin: auto;
 	display: block;
 }
 
-#resources > ul > li > a:nth-child(2) {
-	display: none;
+.logo img {
+  width: 100%;
 }
 
-#resources > ul > li:target > a:first-child {
-	display: none;
+.claim {
+  font-size: 28px;
+  text-align: center;
+  margin: 40px 0;
 }
 
-#resources > ul > li:target > a:nth-child(2) {
-	display: inline;
+/* 4. Section Main Links */
+
+.main-links {
+  text-align: center;
+  font-size: 0;
 }
 
-#resources > ul > li:last-child > div {
-	left: -646px;
+.main-links > a {
+  margin: 10px;
+  display: inline-block;
+  text-decoration: none;
+  transition: transform .1s;
 }
 
-#resources > ul > li > div > div {
-	width: 710px;
-	margin: 20px 0px;
-	padding: 5px 20px;
-	border: 2px solid #ccc;
-	border-radius: 20px;
-	line-height: 19px;
-	font-size: 17px;
-	background-color: #fff;
+.main-links > a:hover {
+  transform: scale(1.1);
 }
 
-#resources > ul > li > div > div a {
-	padding-bottom: 2px;
-	border-bottom: 1px dotted #ccc;
-	text-decoration: none;
-	color: #3366ff;
+.main-links > a img {
+  height: 100px;
+}
+
+.main-links > a span {
+  font-size: 20px;
+  margin-top: 10px;
+  display: block;
+  color: #333;
+}
+
+/* 5. Section News Links */
+
+.news-links {
+  margin: 45px auto;
+  width: max-content;
+}
+
+.news-links a {
+  display: block;
+  font-size: 20px;
+  text-decoration: none;
+  color: #333;
+  margin: 20px 0;
+  transition: transform .1s;
+}
+
+.news-links > a:hover {
+  transform: scale(1.1);
+}
+
+.news-links a i {
+  display: inline-block;
+  width: 35px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.news-links a img {
+  height: 24px;
+  vertical-align: middle;
+}
+
+.news-links a span {
+  vertical-align: middle;
+}
+
+/* 6. Section Search Links */
+
+.search-links {
+  text-align: center;
+}
+
+.search-links a {
+  display: inline-block;;
+  color: #333;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 15px;
+  transition: transform .1s;
+}
+
+.search-links > a:hover {
+  transform: scale(1.1);
+}
+
+.search-links img {
+  height: 60px;
+}
+
+.search-links span {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* 7. Section Legal */
+
+.legal {
+  max-width: 280px;
+  text-align: justify;
+  margin: 45px auto 85px;
+  color: #888;
+  font-size: 14px;
+}
+
+.legal a {
+  text-decoration: none;
+  color: #008CBA;
+}
+
+.legal a:hover {
+  text-decoration: underline;
 }
