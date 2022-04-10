@@ -5,6 +5,7 @@ Whonix specific browser homepage used in Tor Browser.
 Contains Whonix logo and Whonix links.
 
 Safe to remove, if you know what you are doing.
+
 ## How to install `whonix-welcome-page` using apt-get ##
 
 1\. Download the APT Signing Key.
@@ -13,7 +14,7 @@ Safe to remove, if you know what you are doing.
 wget https://www.whonix.org/derivative.asc
 ```
 
-Users can [check Whonix Signing Key](https://www.whonix.org/wiki/Whonix_Signing_Key) for better security.
+Users can [check Whonix Signing Key](https://www.whonix.org/wiki/Signing_Key) for better security.
 
 2\. Add the APT Signing Key..
 
@@ -47,7 +48,9 @@ Can be build using standard Debian package build tools such as:
 dpkg-buildpackage -b
 ```
 
-See instructions. (Replace `generic-package` with the actual name of this package `whonix-welcome-page`.)
+See instructions.
+
+NOTE: Replace `generic-package` with the actual name of this package `whonix-welcome-page`.
 
 * **A)** [easy](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package/easy), _OR_
 * **B)** [including verifying software signatures](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package)
