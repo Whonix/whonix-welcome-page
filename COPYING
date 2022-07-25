@@ -74,6 +74,9 @@ License: GPL-3+-with-additional-terms-1
 
 Files: usr/share/doc/homepage/whonix-welcome-page/*
 Copyright: (C) 2015 WhonixQubes
+ Copyright (C) 2018 - 2022 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+ Copyright (C) 2018 Iry Koon <iry@riseup.net>
+ Copyright (C) 2022 Hans (Whonix dev team)
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -91,3 +94,9 @@ License: GPL-3+
  On Debian systems, the full text of the GNU General Public
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
+
+Files: usr/share/doc/homepage/whonix-welcome-page/img/*
+Copyright: placeholder-various-copyright-holders
+License: placeholder-license
+ Considered fair use by the author of this file in context of this
+ package. Contact the copyright holder directly.
