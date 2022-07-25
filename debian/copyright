@@ -94,3 +94,9 @@ License: GPL-3+
  On Debian systems, the full text of the GNU General Public
  License version 3 can be found in the file
  `/usr/share/common-licenses/GPL-3'.
+
+Files: usr/share/doc/homepage/whonix-welcome-page/img/*
+Copyright: placeholder-various-copyright-holders
+License: placeholder-license
+ Considered fair use by the author of this file in context of this
+ package. Contact the copyright holder directly.
