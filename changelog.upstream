@@ -1,3 +1,93 @@
+commit 10cc707fc42708f7a863a072879b14f3450ff1f8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jul 26 06:55:44 2022 -0400
+
+    rename
+
+commit b62cec05bed9a9c88d4d8db08e0d95f397a05b1a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jul 26 06:54:36 2022 -0400
+
+    new file:   usr/share/doc/homepage/whonix-welcome-page/img/Search-ahmia.png
+
+commit dcc0e89eb432abc6981c61088638ee56279f40a5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:55:51 2022 -0400
+
+    copyright
+
+commit d79ca8cc0a74b5d76cb24d7edcbe112915afa7f1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:55:34 2022 -0400
+
+    copyright
+
+commit 1c01aa4ec91f1c3cff45c638bff5b3b2e4ddab38
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:40:44 2022 -0400
+
+    copyright
+
+commit 6c09f925606c04de7ca9a3a538efeaa6cf32ed8f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:38:40 2022 -0400
+
+    minor: link to root domain, not index.html
+
+commit d22f55e315780a68c84f2b718196ed782b8bbb59
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:34:38 2022 -0400
+
+    ahmia
+
+commit 79cb1bf2f159dcb7beb65b6bacb93e04c39d3962
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:31:36 2022 -0400
+
+    add icon for brave search
+
+commit b7146a4e654be33896b563085c93dd83ae7671e1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:18:12 2022 -0400
+
+    update link
+
+commit e6cd50d3e96f347313d3bcaf45f3fdc1eda2c7b1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:17:52 2022 -0400
+
+    minor
+
+commit c6f0c01ad69c4ffca0f158d0b9e42daaea3ce35c
+Merge: 63403e5 60798e2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:12:31 2022 -0400
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit 60798e20f5d82954a29b70aec2f49188a92799f0
+Merge: 63403e5 5083769
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 25 13:07:27 2022 -0400
+
+    Merge pull request #1 from TNTBOMBOM/patch-1
+    
+    Add onions as much as possible instead of TLS only
+
+commit 50837699666ce86e922ab215e09f615924885956
+Author: TNT BOM BOM <TNTBOMBOM@users.noreply.github.com>
+Date:   Mon Jul 25 15:48:33 2022 +0000
+
+    Add onions as much as possible instead of TLS only
+    
+    https://forums.whonix.org/t/local-browser-homepage-for-tor-browser-in-whonix/347/106
+
+commit 63403e5cb2b85b363f9012302c08ab98fff68093
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 25 06:08:03 2022 -0400
+
+    bumped changelog version
+
 commit bd829f2d3aaa670f7b8d7855009ab162b2ce5f4d
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri May 20 15:27:16 2022 -0400
