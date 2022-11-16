@@ -16,20 +16,19 @@
     <!-- Start : End Of Year Banner
 
       To remove this banner simply remove this whole section up to the end tag
-      Also remove the whole directory "end-of-year-banner"
     -->
     
-    <link href="end-of-year-banner/MiniModal.css" type="text/css" rel="stylesheet" media="all" />
-    <link href="end-of-year-banner/CodeSelect.css" type="text/css" rel="stylesheet" media="all" />
-    <link href="end-of-year-banner/PayViaPaypal.css" type="text/css" rel="stylesheet" media="all" />
-    <link href="end-of-year-banner/Sitenotice_EndOfYear.css" type="text/css" rel="stylesheet" media="all" />
+    <link href="../kicksecure-welcome-page/end-of-year-banner/MiniModal.css" type="text/css" rel="stylesheet" media="all" />
+    <link href="../kicksecure-welcome-page/end-of-year-banner/CodeSelect.css" type="text/css" rel="stylesheet" media="all" />
+    <link href="../kicksecure-welcome-page/end-of-year-banner/PayViaPaypal.css" type="text/css" rel="stylesheet" media="all" />
+    <link href="../kicksecure-welcome-page/end-of-year-banner/Sitenotice_EndOfYear.css" type="text/css" rel="stylesheet" media="all" />
 
-    <script src="end-of-year-banner/jquery.min.js" type="text/javascript"></script>
-    <script src="end-of-year-banner/jquery.cookie.js" type="text/javascript"></script>
-    <script src="end-of-year-banner/MiniModal.js" type="text/javascript"></script>
-    <script src="end-of-year-banner/CodeSelect.js" type="text/javascript"></script>
-    <script src="end-of-year-banner/PayViaPaypal.js" type="text/javascript"></script>
-    <script src="end-of-year-banner/Sitenotice_EndOfYear.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/jquery.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/jquery.cookie.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/MiniModal.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/CodeSelect.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/PayViaPaypal.js" type="text/javascript"></script>
+    <script src="../kicksecure-welcome-page/end-of-year-banner/Sitenotice_EndOfYear.js" type="text/javascript"></script>
 
     <style type="text/css">
       div, span, a {
@@ -52,7 +51,7 @@
         background-repeat: no-repeat;
         filter: brightness(2);
         display: inline-block;
-        background-image: url('end-of-year-banner/img/times.png');
+        background-image: url('../kicksecure-welcome-page/end-of-year-banner/img/times.png');
       }
 
       #donate-end-of-year i {
@@ -66,7 +65,7 @@
       }
 
       #donate-end-of-year i.dismiss {
-        background-image: url('end-of-year-banner/img/times.png');
+        background-image: url('../kicksecure-welcome-page/end-of-year-banner/img/times.png');
       }
 
       #donate-end-of-year .slideshow > .content img {
@@ -83,11 +82,11 @@
       }
 
       #donate-end-of-year .slideshow .flow i.is-play {
-        background-image: url('end-of-year-banner/img/pause.png');
+        background-image: url('../kicksecure-welcome-page/end-of-year-banner/img/pause.png');
       }
 
       #donate-end-of-year .slideshow .flow i.is-pause {
-        background-image: url('end-of-year-banner/img/play.png');
+        background-image: url('../kicksecure-welcome-page/end-of-year-banner/img/play.png');
       }
 
     </style>
@@ -105,19 +104,19 @@
         </div>
         
         <div>
-	        <img src="end-of-year-banner/img/green.jpg" />
+	        <img src="../kicksecure-welcome-page/end-of-year-banner/img/green.jpg" />
 	        Whonix is an Open Source security and anonymity power house - <b>providing tremendous value to thousands of users</b>! 
 	        But only those who move forward continue to thrive. Would you support our next big leap? 
         </div>
         
         <div>
-	        <img src="end-of-year-banner/img/blue.jpg" />
+	        <img src="../kicksecure-welcome-page/end-of-year-banner/img/blue.jpg" />
 	        For 2023 we're preparing an installer for Windows and Linux to help new users get started. 
 	        We want to <b>improve the usability and enhance the user experience</b>. This includes a Whonix starter. 
         </div>
         
         <div>
-	        <img src="end-of-year-banner/img/yellow.jpg" />
+	        <img src="../kicksecure-welcome-page/end-of-year-banner/img/yellow.jpg" />
 	        We aim to create a high impact outreach with articles and videos to attract more users, which in turn means even more anonymity for YOU. 
 	        <b>Would you consider a donation to keep Whonix independent</b> and help reach these new goals? Thank you.
         </div>
@@ -143,9 +142,9 @@
         initEndOfYearSitenotice( $('#end-of-year-banner-modal .content'), null, contentForSlides );
 
         let eoy = $('#donate-end-of-year');
-        eoy.find('.btc .cbutton').attr('src','end-of-year-banner/img/40px-BC_Logo_.png')
-        eoy.find('.xmr .cbutton').attr('src','end-of-year-banner/img/40px-Monero-symbol-1280.png')
-        eoy.find('.eth .cbutton').attr('src','end-of-year-banner/img/40px-Ethereumlogo.png')
+        eoy.find('.btc .cbutton').attr('src','../kicksecure-welcome-page/end-of-year-banner/img/40px-BC_Logo_.png')
+        eoy.find('.xmr .cbutton').attr('src','../kicksecure-welcome-page/end-of-year-banner/img/40px-Monero-symbol-1280.png')
+        eoy.find('.eth .cbutton').attr('src','../kicksecure-welcome-page/end-of-year-banner/img/40px-Ethereumlogo.png')
 
         $('#end-of-year-banner-modal').css('opacity',0);
         $('#end-of-year-banner-modal').miniModal('show');
