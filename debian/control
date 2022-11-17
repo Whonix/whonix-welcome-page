@@ -14,7 +14,7 @@ Rules-Requires-Root: no
 
 Package: whonix-welcome-page
 Architecture: all
-Depends: ${misc:Depends}, fonts-roboto-fontface
+Depends: ${misc:Depends}, kicksecure-welcome-page, fonts-roboto-fontface
 Description: Local Browser Homepage for Whonix
  Whonix specific browser homepage used in Tor Browser.
  .
