@@ -1,3 +1,23 @@
+commit e5f6f06e3d4af99505bd507be509d19c2dde9765
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Nov 17 11:14:32 2022 -0500
+
+    set Firefox ESR from Debian package sources homepage to about:blank
+    
+    This is to disable kicksecure-welcome-page in Whonix.
+
+commit 36ad250c1dbb3436b93f0b96f25b7ef88e9aab26
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Nov 17 10:31:26 2022 -0500
+
+    Depends: kicksecure-welcome-page
+
+commit ed7fc7d0501c6aa2e7f31878bef4a05696793669
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Nov 17 10:16:18 2022 -0500
+
+    bumped changelog version
+
 commit 699a04f869ba4399e69a9c966419918272ae93aa
 Merge: e32e2a9 e9a09e1
 Author: Patrick Schleizer <adrelanos@whonix.org>
