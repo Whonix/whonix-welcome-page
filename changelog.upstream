@@ -1,3 +1,28 @@
+commit 699a04f869ba4399e69a9c966419918272ae93aa
+Merge: e32e2a9 e9a09e1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Nov 16 10:29:59 2022 -0500
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit e9a09e154a4686876cd81e534be766a4144410e1
+Author: Your Name <you@example.com>
+Date:   Wed Nov 16 16:26:58 2022 +0100
+
+    Whonix local HP referencing Kicksecure local HP
+
+commit 5a8bca82b700ef1060bd4fa9fcbf886bd6f6f2e6
+Author: Your Name <you@example.com>
+Date:   Wed Nov 16 14:53:56 2022 +0100
+
+    Whonix End of Year Banner
+
+commit e32e2a98313a1e16535b1f2373a52f1e310d69d3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jul 26 06:57:19 2022 -0400
+
+    bumped changelog version
+
 commit 10cc707fc42708f7a863a072879b14f3450ff1f8
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Tue Jul 26 06:55:44 2022 -0400
