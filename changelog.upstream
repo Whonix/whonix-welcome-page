@@ -1,3 +1,37 @@
+commit f9c5482f4e55002412a0e0e1df3ca06110886302
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 18 07:13:46 2022 -0500
+
+    Revert "Depends: kicksecure-welcome-page"
+    
+    This reverts commit 36ad250c1dbb3436b93f0b96f25b7ef88e9aab26.
+
+commit 0bb78f9251f657302cc24d4a5f85575f5c9382c9
+Merge: 1f99d89 aa6485d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 18 07:13:23 2022 -0500
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit aa6485dd3f04d4e21685d7f27f90c3daef42ab35
+Merge: 97402c4 1f99d89
+Author: Your Name <you@example.com>
+Date:   Fri Nov 18 12:45:21 2022 +0100
+
+    Merge branch 'master' of https://github.com/Whonix/whonix-welcome-page
+
+commit 97402c419f26178a1cd642957aabdabd365f6d9e
+Author: Your Name <you@example.com>
+Date:   Fri Nov 18 12:43:03 2022 +0100
+
+    Revert local HP back to without endofyear banner
+
+commit 1f99d8937da1555c1a2204667d05be43f6763d14
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Nov 17 12:09:24 2022 -0500
+
+    bumped changelog version
+
 commit e5f6f06e3d4af99505bd507be509d19c2dde9765
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Nov 17 11:14:32 2022 -0500
