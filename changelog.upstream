@@ -1,3 +1,30 @@
+commit 8b524f98f6f25acd4ab38bad878dcfa966f67059
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Nov 22 23:48:27 2022 -0500
+
+    Revert "Revert "Depends: kicksecure-welcome-page""
+    
+    This reverts commit f9c5482f4e55002412a0e0e1df3ca06110886302.
+
+commit 7c704336a505e073d0170446edafce2e66095a42
+Merge: 948458b ce00016
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Nov 22 23:33:50 2022 -0500
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit ce0001668678fd4bd0fe10eb15a2c3378d389a38
+Author: Your Name <you@example.com>
+Date:   Tue Nov 22 16:17:41 2022 +0100
+
+    End of year banner for welcome page
+
+commit 948458b4ce27d87cfaee2ba4f02b03020f4f6de1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 18 07:41:21 2022 -0500
+
+    bumped changelog version
+
 commit f9c5482f4e55002412a0e0e1df3ca06110886302
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Nov 18 07:13:46 2022 -0500
