@@ -1,3 +1,19 @@
+commit 411474aa0a4868895529de356bcc805980b3715b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jun 16 08:24:29 2023 +0000
+
+    Remove peekier from because it is inaccessible without payment.
+    
+    Thanks to @TNT_BOM_BOM for the bug report!
+    
+    https://forums.whonix.org/t/local-browser-homepage-for-tor-browser-in-whonix/347/114
+
+commit 7190d816b28eaa7c6076124a7c5e3cdcbd38afbc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 15 17:09:59 2023 +0000
+
+    bumped changelog version
+
 commit a6c107025a276914c01c0bb72cefe09817cec62f
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Jun 14 13:14:51 2023 +0000
