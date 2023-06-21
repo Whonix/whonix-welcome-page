@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Homepage: https://github.com/Whonix/whonix-welcome-page
 Vcs-Browser: https://github.com/Whonix/whonix-welcome-page
 Vcs-Git: https://github.com/Whonix/whonix-welcome-page.git
-Standards-Version: 4.6.1.0
+Standards-Version: 4.6.2
 Rules-Requires-Root: no
 
 Package: whonix-welcome-page
