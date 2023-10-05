@@ -1,3 +1,21 @@
+commit 6120458f804b575174af1fa1eb21f8395f7f66ba
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 4 05:40:25 2023 -0400
+
+    minor
+
+commit f2e68760e1bf24d254f8fd7c2538410c1535aa1a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 4 05:35:34 2023 -0400
+
+    less TM symbols in footer since not needed
+
+commit 99674bf72aa64a838a99c8ae1a310692524ba07b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 29 08:18:26 2023 -0400
+
+    bumped changelog version
+
 commit d94157bc77610016365c1e33e3e327abcf62efbc
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Tue Aug 29 08:13:27 2023 -0400
