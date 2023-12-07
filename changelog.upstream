@@ -1,3 +1,15 @@
+commit 1640cd55445aa177bda6fdc1d6478393cc7c3432
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Dec 7 12:07:08 2023 -0500
+
+    hide logo to make place for end of year donation banner
+
+commit 5398f0e1b3b8d0df8583638444cd1c6209f8ad83
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Dec 7 14:27:33 2023 +0000
+
+    bumped changelog version
+
 commit 80a0a3baf78b443f4124ee4a69efba1287b03ed7
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Dec 7 09:06:37 2023 -0500
