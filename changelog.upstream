@@ -1,3 +1,27 @@
+commit 80a0a3baf78b443f4124ee4a69efba1287b03ed7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Dec 7 09:06:37 2023 -0500
+
+    improve text
+
+commit d5e50e694d10bc4b1f8f663d11ab90c86187cda3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Dec 6 13:02:36 2023 -0500
+
+    update text
+
+commit 209561180a87f0848de1e58140ae103f9c012b11
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Dec 6 12:43:04 2023 -0500
+
+    enable end of year banner
+
+commit ad5b602adfec814629b6786bbc754a47aa9e4c52
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 20:32:23 2023 +0000
+
+    bumped changelog version
+
 commit dba40932f3ad0d430bddd8337befada2dc75f586
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Nov 11 14:43:11 2023 -0500
