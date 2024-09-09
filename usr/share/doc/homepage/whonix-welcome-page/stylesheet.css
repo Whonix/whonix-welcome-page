@@ -41,10 +41,18 @@ body {
   width: 100%;
 }
 
+.info-is-local {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 4px;
+}
+
 .claim {
   font-size: 28px;
   text-align: center;
-  margin: 40px 0;
+  padding: 5px;
+  margin: 35px 0;
+  background: #fafafa;
 }
 
 /* 4. Section Main Links */
@@ -112,14 +120,58 @@ body {
   vertical-align: middle;
 }
 
+/* 7. Section Search Docs */
+
+.search-docs {
+  background: #fafafa;
+  margin: 40px 0px;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.search-docs input {
+  display: block;
+  width: 94%;
+  max-width: 700px;
+  margin: 10px auto;
+  font-size: 20px;
+  padding: 2px 9px 4px;
+  background: transparent;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  text-align: center;
+}
+
+.search-docs input::placeholder {
+  color: #999;
+}
+
+.search-docs .buttons {
+  margin-bottom: 10px;
+}
+
+.search-docs button {
+  font-size: 20px;
+  border: none;
+  background: #eee;
+  border-radius: 6px;
+  padding: 7px 11px;
+  cursor: pointer;
+}
+
+.search-docs button:hover {
+  background: #ccc;
+}
+
 /* 6. Section Search Links */
 
 .search-links {
   text-align: center;
+  padding-top: 10px;
 }
 
 .search-links a {
-  display: inline-block;;
+  display: inline-block;
   color: #333;
   text-decoration: none;
   font-size: 20px;
