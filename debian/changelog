@@ -1,3 +1,9 @@
+whonix-welcome-page (3:6.9-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Tue, 10 Sep 2024 14:26:02 +0000
+
 whonix-welcome-page (3:6.8-1) unstable; urgency=medium
 
   * New upstream version (local package).

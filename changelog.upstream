@@ -1,3 +1,28 @@
+commit 8a0fef81e5077f91ff9971889eaa495a5b5f3eb5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Sep 10 10:25:22 2024 -0400
+
+    avoid unicode
+
+commit a0a628fb34ad2cd2b27aeb153ff6236ee700c4cf
+Merge: 5fe0361 f5578cd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Sep 10 10:19:07 2024 -0400
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit f5578cd462a19520c71f8f83b501490918061a51
+Author: Your Name <you@example.com>
+Date:   Mon Sep 9 14:34:52 2024 +0200
+
+    Whonix local homepage improving style, adding top page warning, adding docu searches
+
+commit 5fe03613cef39cadf56c8250427073bcbcb48684
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Feb 3 20:52:22 2024 +0000
+
+    bumped changelog version
+
 commit 8594048ca5742c5abe2c3d6170808c5a34d27e3d
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Feb 3 15:51:34 2024 -0500
