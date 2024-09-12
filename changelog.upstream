@@ -1,3 +1,15 @@
+commit 2724e278279941423c25019b0937e9de8084e85e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Sep 12 13:16:23 2024 -0400
+
+    use onion domains for search
+
+commit fbf59dc977f506bd9a0f469ae190ba2ffd71757e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Sep 11 20:20:37 2024 +0000
+
+    bumped changelog version
+
 commit 06b6e694726110b118d377cb981ab53f874c3e61
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Sep 11 16:19:54 2024 -0400
