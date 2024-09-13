@@ -41,12 +41,6 @@ body {
   width: 100%;
 }
 
-.info-is-local {
-  font-size: 20px;
-  text-align: center;
-  margin-top: 4px;
-}
-
 .claim {
   font-size: 28px;
   text-align: center;
@@ -198,7 +192,7 @@ body {
 .legal {
   max-width: 280px;
   text-align: justify;
-  margin: 45px auto 85px;
+  margin: 40px auto;
   color: #888;
   font-size: 14px;
 }
@@ -210,4 +204,12 @@ body {
 
 .legal a:hover {
   text-decoration: underline;
+}
+
+/* Section Info Local */
+
+.info-is-local {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 85px;
 }
