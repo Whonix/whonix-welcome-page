@@ -1,3 +1,22 @@
+commit 82af565c34426a781cd315ed08c374dda8bb973c
+Merge: fd2d5bc 66bf29d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Sep 13 21:19:43 2024 -0400
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit 66bf29dba8daaed19de123b5ecc83e6c36d7f54d
+Author: Your Name <you@example.com>
+Date:   Fri Sep 13 09:22:44 2024 +0200
+
+    Moved local load info to footer, removed metager
+
+commit fd2d5bc7772bdbf9624581c2f3c656df1fe192a9
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Sep 12 17:17:01 2024 +0000
+
+    bumped changelog version
+
 commit 2724e278279941423c25019b0937e9de8084e85e
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Sep 12 13:16:23 2024 -0400
