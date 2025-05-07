@@ -1,3 +1,28 @@
+commit 6c73afb44c748b28b092a693afeef37581ad9444
+Merge: bcd724e 1e6d983
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 7 08:34:32 2025 -0400
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit 1e6d98337665130717c56368ef59984e88a9ead7
+Author: Your Name <you@example.com>
+Date:   Wed May 7 12:42:41 2025 +0200
+
+    Add documentation for easy understanding later
+
+commit e8b767d4cb444bf0637e82315fc3fe81d409c44d
+Author: Your Name <you@example.com>
+Date:   Wed May 7 12:31:59 2025 +0200
+
+    Implementation of transparency tooltip for search engines
+
+commit bcd724ec91c680e8090cdb3b13814f474e94d48a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Dec 31 19:29:14 2024 +0000
+
+    bumped changelog version
+
 commit 086422b0da4eeb598b28d725faf5658c71bf5bd3
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Tue Dec 31 13:26:26 2024 -0500
