@@ -164,28 +164,80 @@ body {
   padding-top: 10px;
 }
 
-.search-links a {
+.search-links > div {
   display: inline-block;
-  color: #333;
-  text-decoration: none;
+  position: relative;
   font-size: 20px;
-  margin: 15px;
   transition: transform .1s;
 }
 
-.search-links > a:hover {
+.search-links > div:hover {
   transform: scale(1.1);
+}
+
+.search-links > div > a {
+  padding: 15px;
+  color: #333;
+  text-decoration: none;
+  display: block;
 }
 
 .search-links img {
   height: 60px;
 }
 
-.search-links span {
+.search-links a span {
   display: block;
   margin-top: 10px;
   text-align: center;
 }
+
+.search-links div .transparency-tooltip {
+  display: none;
+  width: 160px;
+  background: #fffad2;
+  color: #333;
+  position: absolute;
+  text-align: justify;
+  left: 50%;
+  top: 0;
+  font-size: 12px;
+  transform: translateY( calc( -100% - 11px ) ) translateX( -50% );
+  padding: 5px 10px 7px;
+  filter: drop-shadow( 1px 1px 2px #0004 );
+}
+
+.search-links div:hover .transparency-tooltip,
+.search-links div .transparency-tooltip:hover {
+  display: block;
+}
+
+.search-links div .transparency-tooltip::before,
+.search-links div .transparency-tooltip::after {
+  content: " ";
+  display: block;
+  position: absolute;
+}
+
+.search-links div .transparency-tooltip::before {
+  border: 10px solid transparent;
+  border-top-color: #fffad2;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX( -50% );
+}
+
+.search-links div .transparency-tooltip::after {
+  height: 11px;
+  bottom: -11px;
+  width: 100%;
+  left: 0;
+}
+
+.search-links div .transparency-tooltip a {
+  color: #2975b8;
+}
+
 
 /* 7. Section Legal */
 
