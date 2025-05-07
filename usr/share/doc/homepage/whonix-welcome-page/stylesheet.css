@@ -227,6 +227,7 @@ body {
   transform: translateX( -50% );
 }
 
+/* This enlarges the tooltip so the hover effect can be maintained to reach the tooltip link */
 .search-links div .transparency-tooltip::after {
   height: 11px;
   bottom: -11px;
