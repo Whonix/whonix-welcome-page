@@ -1,3 +1,28 @@
+commit bc7bddab199bb79c192c380b19416a5958dabf6b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri May 9 08:44:53 2025 -0400
+
+    consistently use transparency tooltip
+
+commit 2793c1fd506037205985ae05074ca3dcb80ec63e
+Merge: 503a6ed bb35f01
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri May 9 08:40:11 2025 -0400
+
+    Merge remote-tracking branch 'github-whonix/master'
+
+commit bb35f013d749878361d43c67fef8dfb133bf3e62
+Author: Your Name <you@example.com>
+Date:   Fri May 9 14:30:37 2025 +0200
+
+    Add startpage and more button, remove duckduckgo
+
+commit 503a6edaa5755799102870a5f515f001ee497e03
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed May 7 13:09:30 2025 +0000
+
+    bumped changelog version
+
 commit 6c73afb44c748b28b092a693afeef37581ad9444
 Merge: bcd724e 1e6d983
 Author: Patrick Schleizer <adrelanos@whonix.org>
