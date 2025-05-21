@@ -4,5 +4,5 @@
 ## See the file COPYING for copying conditions.
 
 if [ -x /usr/libexec/whonix-welcome-page/env_var.sh ]; then
-   . /usr/libexec/whonix-welcome-page/env_var.sh >/dev/null 2>/dev/null
+   . /usr/libexec/whonix-welcome-page/env_var.sh || true >/dev/null 2>/dev/null
 fi
