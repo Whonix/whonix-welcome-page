@@ -4,7 +4,7 @@
 ## See the file COPYING for copying conditions.
 
 ## environment variable to set TorBrowser homepage
-## https://trac.torproject.org/projects/tor/ticket/13835
+## https://gitlab.torproject.org/tpo/applications/tor-browser/-/issues/13835
 
 ## https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
 if [ "$TOR_DEFAULT_HOMEPAGE" = "" ]; then
