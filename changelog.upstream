@@ -1,3 +1,9 @@
+commit 346f752db5e3a90c8bf995d97ec1b14534346041
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Mar 28 10:01:38 2026 +0000
+
+    bumped changelog version
+
 commit bd53621e4ea87c02a8e5ce5dbfbda1863bbbf7c3
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Mar 28 05:31:44 2026 -0400
@@ -29,7 +35,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Jan 5 03:21:05 2026 -0500
 
     Merge pull request #3 from Nurmagoz/patch-2
-    
+
     Link fixing
 
 commit 6aabecd89fcf36caf6c02a07f472ff0de8b54eed
@@ -395,9 +401,9 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Jun 16 08:24:29 2023 +0000
 
     Remove peekier from because it is inaccessible without payment.
-    
+
     Thanks to @TNT_BOM_BOM for the bug report!
-    
+
     https://forums.whonix.org/t/local-browser-homepage-for-tor-browser-in-whonix/347/114
 
 commit 7190d816b28eaa7c6076124a7c5e3cdcbd38afbc
@@ -465,7 +471,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Tue Nov 22 23:48:27 2022 -0500
 
     Revert "Revert "Depends: kicksecure-welcome-page""
-    
+
     This reverts commit f9c5482f4e55002412a0e0e1df3ca06110886302.
 
 commit 7c704336a505e073d0170446edafce2e66095a42
@@ -492,7 +498,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Nov 18 07:13:46 2022 -0500
 
     Revert "Depends: kicksecure-welcome-page"
-    
+
     This reverts commit 36ad250c1dbb3436b93f0b96f25b7ef88e9aab26.
 
 commit 0bb78f9251f657302cc24d4a5f85575f5c9382c9
@@ -526,7 +532,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Nov 17 11:14:32 2022 -0500
 
     set Firefox ESR from Debian package sources homepage to about:blank
-    
+
     This is to disable kicksecure-welcome-page in Whonix.
 
 commit 36ad250c1dbb3436b93f0b96f25b7ef88e9aab26
@@ -639,7 +645,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Jul 25 13:07:27 2022 -0400
 
     Merge pull request #1 from TNTBOMBOM/patch-1
-    
+
     Add onions as much as possible instead of TLS only
 
 commit 50837699666ce86e922ab215e09f615924885956
@@ -647,7 +653,7 @@ Author: TNT BOM BOM <TNTBOMBOM@users.noreply.github.com>
 Date:   Mon Jul 25 15:48:33 2022 +0000
 
     Add onions as much as possible instead of TLS only
-    
+
     https://forums.whonix.org/t/local-browser-homepage-for-tor-browser-in-whonix/347/106
 
 commit 63403e5cb2b85b363f9012302c08ab98fff68093
@@ -890,9 +896,9 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed May 6 07:57:42 2020 -0400
 
     back to real image logo
-    
+
     Thanks to @torjunkie for bringing this up!
-    
+
     https://forums.whonix.org/t/illustrations-images-wishlist-for-whonix/3352/13
 
 commit 4dca8711a9c1eb40abc419a0661706760efea65e
@@ -984,9 +990,9 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Feb 13 06:53:31 2020 -0500
 
     switch forums to clearnet link
-    
+
     as onion is broken
-    
+
     https://forums.whonix.org/t/onion-forum-broken/8870
 
 commit 6cd622b23838ac36c4b7d0ca8dffc1d84fa872d9
@@ -1030,7 +1036,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Sep 20 14:00:20 2019 +0000
 
     no longer set TOR_DEFAULT_HOMEPAGE variable
-    
+
     https://forums.whonix.org/t/noscript-with-security-slider-at-safest-permits-around-30-sites/8160
 
 commit fedb48b891aa2e4193a20cba6a5d040e6bea3acc
@@ -1128,18 +1134,18 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 1 14:32:45 2019 +0000
 
     add improved legal protections clauses
-    
+
     The license for software created by Whonix is the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version with additional terms applicable per GNU GPL version 3 section 7.
-    
+
     The additional terms are based on the Doom 3 license which is Debian refers to as `GPL-3+-with-id-software-additional-terms`, which is Debian DFSG [1] (The Debian Free Software Guidelines) approved and which is therefore suitable for Debian `main`. Whonix made applied minimal changes to it:
-    
+
     * Rewrite `The Doom 3 BFG Edition GPL Source Code` to the more common `this program` which is used throughout the GPL.
     * Added a "trump clause" [2], in other words, any conflicts or disputes between the additional terms and the GPLv3 shall be resolved in favor of the GPLv3 by adding `Notwithstanding any other provision of this License` (as mentioned in GPL FAQ [3]) at the beginning of the additional terms.
-    
+
     [1] https://www.debian.org/social_contract#guidelines
     [2] https://www.fsf.org/news/canonical-updated-licensing-terms
     [3] https://www.gnu.org/licenses/gpl-faq.html#v3Notwithstanding
-    
+
     For more considerations, see also:
     https://www.whonix.org/wiki/Dev/Licensing
 
@@ -1162,7 +1168,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Sep 6 08:19:07 2018 +0000
 
     Merge pull request #5 from irykoon/master
-    
+
      Beautify welcome-page for Tor Browser 8.0a
 
 commit 89b32f8d8fe44b183d517a89916842c85ccab098
@@ -1195,7 +1201,7 @@ Author: irykoon <irykoon@gmail.com>
 Date:   Thu Jul 5 15:58:56 2018 +0000
 
     Beautify welcome-page for Tor Browser 8.0a
-    
+
     It is recommended NOT merging this commit until Tor Browser 8.0
     becomes stable as it won't make the page in Tor Browser 7.5.x look
     better.
@@ -1219,7 +1225,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Jun 21 09:38:12 2018 +0200
 
     Merge pull request #4 from irykoon/master
-    
+
     whonix.org/blog -> forum.whonix.org/c/news
 
 commit a3eea67d233925e6ef192ec1b33c6a7cf01fcdff
@@ -1227,7 +1233,7 @@ Author: irykoon <irykoon@gmail.com>
 Date:   Thu Jun 21 07:00:39 2018 +0000
 
     whonix.org/blog -> forum.whonix.org/c/news
-    
+
     As discussed on: https://forums.whonix.org/t/replacing-whonix-wordpress-blog-https-www-whonix-org-blog/5351/7
 
 commit f8b60a6f5d350a58f79a71defec0b052ba38d446
@@ -1321,7 +1327,7 @@ Author: irykoon <irykoon@gmail.com>
 Date:   Wed Jan 3 21:50:30 2018 +0000
 
     Beautify Whonix Welcome page in Tor Browser
-    
+
     The 7.0.9 release broke the Whonix welcome page in Tor Browser (https://forums.whonix.org/t/the-7-0-9-release-broke-the-whonix-landing-page-in-tor-browser/4489). Although the prvious welcome page still works, it is better to beautify it. This fix include replacing Whonix logo png with Ascii Art, removal of invlalid links and enlarging font size. Still this is a temporary workaround and please feel free to checkout to the previous one, once the breakage problem is fixed by TPO.
 
 commit e275a2d24c6388cd802b0a741ba70b5370209b6e
@@ -1336,7 +1342,7 @@ Author: irykoon <irykoon@gmail.com>
 Date:   Wed Jan 3 21:18:40 2018 +0000
 
     Beautify Whonix Welcome page in Tor Browser
-    
+
     The 7.0.9 release broke the Whonix welcome page in Tor Browser (https://forums.whonix.org/t/the-7-0-9-release-broke-the-whonix-landing-page-in-tor-browser/4489). Although the prvious welcome page still works, it is better to beautify it. This fix include replacing Whonix logo png with Ascii Art, removal of invlalid links and enlarging font size. Still this is a temporary workaround and please feel free to checkout to the previous one, once the breakage problem is fixed by TPO.
 
 commit a073c29a51ec154e7a45b3efba150f82919b059b
@@ -1358,7 +1364,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Aug 16 12:07:19 2017 +0200
 
     Merge pull request #1 from irykoon/master
-    
+
     onionize Whonix related links on welcome page
 
 commit 4092878c04e8b1fd5994222cbd9f3b2b5edb9732
@@ -1378,7 +1384,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Feb 10 15:47:56 2017 +0000
 
     remove faketime from Build-Depends:
-    
+
     since no longer used for reproducible builds
 
 commit 7279a6f1bf5532b97e026d0e2dcb07abab7809c9
@@ -1434,7 +1440,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Dec 5 12:46:34 2015 +0000
 
     updated Whonix forums url
-    
+
     Thanks to @HulaHoopWhonix for the report.
 
 commit b6dded43b359527cad9f74d72402c6da70257e28
@@ -1507,11 +1513,11 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Thu Apr 9 02:50:41 2015 +0000
 
     Added licensing comments...
-    
+
     This file is part of Whonix.
     Copyright (C) 2015 WhonixQubes
     See the file COPYING for copying conditions.
-    
+
     - usr/share/homepage/whonix-welcome-page/whonix.html
     - usr/share/homepage/whonix-welcome-page/stylesheet.css
 
@@ -1520,9 +1526,9 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Thu Apr 9 02:26:58 2015 +0000
 
     Removed JavaScript...
-    
+
     JavaScript is not used in this initial static webpage version.
-    
+
     - Removed file: usr/share/homepage/whonix-welcome-page/javascript.js
     - Removed reference from: usr/share/homepage/whonix-welcome-page/whonix.html
 
@@ -1623,12 +1629,12 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Sat Jan 3 14:32:15 2015 +0000
 
     Added "target" and "rel" HTML tags to links in Disclaimer text...
-    
+
     Makes uniform with other external web links on page.
-    
+
     - target="_blank" (helps open link in new tab).
     - rel="noreferrer" (can help blank HTTP REFERER field).
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
 
 commit a27bf1200465c5fb000182d75d3e7bd5a2312175
@@ -1636,10 +1642,10 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 19:59:40 2015 +0000
 
     Called JavaScript file with "script" tag in HTML head...
-    
+
     - Referenced relative path of "javascript.js"
     - Used proper media type of "application/javascript"
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
 
 commit 854a7e0322b5946fb3853188f8df840fb7b345fa
@@ -1647,7 +1653,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 19:50:55 2015 +0000
 
     Added javascript.js
-    
+
     ./usr/share/homepage/whonix-welcome-page/javascript.js
 
 commit 50d95a30d860397476d4837cf7ebb8cd3053f2f3
@@ -1655,10 +1661,10 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 19:13:18 2015 +0000
 
     Adjusted spacing and size of resource links in stylesheet...
-    
+
     - Decreased padding of list items to allow for font size increase.
     - Increased font size of link anchors for better visibility.
-    
+
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
 
 commit a9de49ee9a53c5218bd485b954ead4d7ceef777a
@@ -1666,7 +1672,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 12:19:11 2015 +0000
 
     Added "tabindex" attributes to HTML elements for logical ordered tab sequencing.
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
 
 commit 479ebb27af1394db06c1fff130cdcfad59d71a27
@@ -1674,7 +1680,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 12:12:08 2015 +0000
 
     Fixed centering of list items of resource links in stylesheet.
-    
+
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
 
 commit baab171d5d2ff2e1dd00bb890fc84e4107ddbf4d
@@ -1682,7 +1688,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 12:03:08 2015 +0000
 
     Added explicit UTF-8 charset declaration to the stylesheet...
-    
+
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
 
 commit 581e872b8903909873929c947cb8ef74a849f8e5
@@ -1690,9 +1696,9 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 11:55:33 2015 +0000
 
     Changed title tag text to "Whonix Welcome Page" from "Welcome to Whonix"...
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
-    
+
     Provides better enduring page usage context and user association to the formal name of the page.
 
 commit c249d2cbf7d0010a4a65ecfc4213eca71f347673
@@ -1700,7 +1706,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 11:50:58 2015 +0000
 
     Changed indent style to tabs from spaces for better code workability...
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
 
@@ -1709,10 +1715,10 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 11:31:42 2015 +0000
 
     Inserted latest HTML (whonix.html) and CSS (stylesheet.css) from Whonix Development Forum...
-    
+
     ./usr/share/homepage/whonix-welcome-page/whonix.html
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
-    
+
     Whonix Development Forum thread message: https://www.whonix.org/forum/index.php/topic,365.msg5816.html#msg5816
 
 commit fde46ae509613edbd6e61f2e23ed86783e6496bc
@@ -1720,11 +1726,11 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 10:02:57 2015 +0000
 
     Added logo.png...
-    
+
     ./usr/share/homepage/whonix-welcome-page/logo.png
-    
+
     Source of file: https://www.whonix.org/w/images/e/e0/210-Banner.png
-    
+
     SHA512 Hash: ec3b40a272070b9c71bcc91461d662f31f7370d5877cff69c52888169d89f1cc8d00a77a90b8d22280ce07eb587acf43f905672c079aae7e7a5e491dfc9c42cc
 
 commit 82242c8b33405bd4441bd80a566cb3fd7fe5f402
@@ -1732,7 +1738,7 @@ Author: WhonixQubes <whonixqubes@riseup.net>
 Date:   Fri Jan 2 09:56:48 2015 +0000
 
     Added ./usr/share/homepage/whonix-welcome-page & whonix.html & stylesheet.css...
-    
+
     ./usr/share/homepage/whonix-welcome-page
     ./usr/share/homepage/whonix-welcome-page/whonix.html
     ./usr/share/homepage/whonix-welcome-page/stylesheet.css
